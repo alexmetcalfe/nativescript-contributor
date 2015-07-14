@@ -1,0 +1,25 @@
+{
+	"name": "nativescript-contributors",
+	"main": "app.js",
+	"version": "1.0",
+	"author": "Alex Metcalfe <support@telerik.com>",
+	"description": "",
+	"license": "BSD",
+	"keywords": [
+		"telerik",
+		"mobile",
+		"nativescript",
+		"{N}",
+		"tns",
+		"appbuilder",
+		"template"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/NativeScript/template-hello-world.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NativeScript/template-hello-world/issues"
+	},
+	"homepage": "https://github.com/NativeScript/template-hello-world"
+}

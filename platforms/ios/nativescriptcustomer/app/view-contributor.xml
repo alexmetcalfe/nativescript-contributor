@@ -1,0 +1,5 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onPageLoaded">
+  <StackLayout>
+    <Label text="{{contributor.contributions}}"/>
+  </StackLayout>
+</Page>

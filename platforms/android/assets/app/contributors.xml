@@ -1,0 +1,9 @@
+<Page loaded="onPageLoaded">
+    <GridLayout rows="auto, *">
+        <ListView items="{{ contributors }}" row="1" itemTap="contributorSelected">
+            <ListView.itemTemplate>
+                <Label text="{{ login }}" />
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>
